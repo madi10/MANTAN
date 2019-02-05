@@ -1,3 +1,13 @@
 ||cdn.onesignal.com^$script
 ||iklanblogger.co^$script
 ||adxscope.com^$script
+! 05/02/2019 komikcast.com
+||cdn.onesignal.com^$script
+||iklanblogger.co^$script
+||adxscope.com^$script
+
+! 05/02/2019 https://hidester.com
+hidester.com##.header
+||hidester.com/wp-content/themes/hidester-2.0/images/vpn-background.jpg$image
+hidester.com##.hero-background.homepage-hero.hero
+hidester.com##.content-holder
