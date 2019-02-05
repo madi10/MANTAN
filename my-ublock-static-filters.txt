@@ -1,4 +1,3 @@
-! 05/02/2019 komikcast.com
 ||cdn.onesignal.com^$script
 ||iklanblogger.co^$script
 ||adxscope.com^$script
