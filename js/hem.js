@@ -1,1 +1,44 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('I 9=L N();9[0]="c://h.d.k/e/l/m/J/K/3/21/Q-R-S-T-U.V";9[1]="c://h.d.k/e/l/m/W/K/7/24/X-Y-Z-11-12.G";9[2]="c://h.d.k/e/l/m/J/K/7/13/14-15-16-17-18.G";9[3]="c://h.d.k/e/l/m/J/19/3/10/1a-1b-1c-1d-1e.G";9[4]="c://h.d.k/e/l/m/J/K/7/28/1f-1g-1h-1i-1j.G";9[5]="c://h.d.k/e/l/m/1k-1/1l/1/23/1m/1n-1o-1p-1q-1r.G";9[6]="c://h.d.k/e/l/m/J/K/4/8/1s-1t-1u-1v-1w.G";I j=0;I p=9.1x;I M=L N();1y(i=0;i<p;i++){M[i]=L 1z();M[i].g=9[i]}I b=O.1A(O.1B()*(p-1));1C 1D(){n(b==0){o.q(\'<a r ="c://d.s/1E"><e t="1F+ 1G 1H 1I 1J / 1K 1L 1M 1N 1O - 1P" v="y z" B-g="\'+9[b]+\'" D=0 E=f F=f></a>\')}H{n(b==1){o.q(\'<a r ="c://d.s/1Q"><e t="1R 1S 1T 1U 1V x 1W - 1X 1Y 1Z 20" v="y z" B-g="\'+9[b]+\'" D=0 E=f F=f></a>\')}H{n(b==2){o.q(\'<a r ="c://d.s/22"><e t="25 26 27 29 w/ 2a 2b 2c u/ 2d / 2e 2f 6 - 2g 2h" v="y z" B-g="\'+9[b]+\'" D=0 E=f F=f></a>\')}H{n(b==3){o.q(\'<a r ="c://d.s/2i"><e t="2j 2k/2l 2m/2n 2.5 2o 2p A 2q C - 2r" v="y z" B-g="\'+9[b]+\'" D=0 E=f F=f></a>\')}H{n(b==4){o.q(\'<a r ="c://d.s/2s"><e t="2t 2u 2v 2w 8/2x - 2y" v="y z" B-g="\'+9[b]+\'" D=0 E=f F=f></a>\')}H{n(b==5){o.q(\'<a r ="c://d.s/2z"><e t="2A 2B P 2C 2D 2E 2F P" v="y z" B-g="\'+9[b]+\'" D=0 E=f F=f></a>\')}H{n(b==6){o.q(\'<a r ="c://d.s/2G"><e t="2H 2I 2J 2K 2L" v="y z" B-g="\'+9[b]+\'" D=0 E=f F=f></a>\')}}}}}}}};',62,172,'|||||||||theImages||whichImage|https|tokopedia|img|300|src|images|||net|cache|900|if|document||write|href|link|alt||class|||lazyload|loaded||data||border|width|height|jpg|else|var|VqbcmM|2022|new|preBuffer|Array|Math|Router|8274cfd6|d2e6|4ffb|ad34|8386322ba1f7|png|hDjmkQ|c5fd8f2d|272b|462e||b562|bd5ac851acb2||96953d93|166f|4c21|8c9f|592757018028|2021|0aed5e13|435b|4dc5|afdb|777f95880cf2|7c34b68b|030e|4657|aad8|3eb3e4a05030|product|2019|11487771|11487771_d919d70a|11d5|4c66|a6a8|d5f73a016b99_700_700|c68ddd59|361e|49ff|9141|026030af2902|length|for|Image|round|random|function|MKAff|twhGnxpOvsb|Med|Masker|Duckbill|50|Pcs|4Ply|Disposable|Face|Mask|Kemenkes|Hitam|197XfiwLvsb|Mini|Folding|HD|Binoculars|30|60|Day|and|Night|Vision||0VsDxORuWrb|||SIKAI|2in1|Silikon||Strap|Bumper|Case|Cover|Huawei|Honor|Band|BLACK|RED|oqoS3otYUrb|ORICO|HDD|SSD|Casing|Enclosure|Inch|Type|to|2521C3|uBbfjdEIwsb|Samsung|Galaxy|A52s|5G|128GB|Green|19FLaNuIwsb|TENDA|N301|Wireless|300Mbps|Easy|Setup|UJzCFyoIwsb|Chief|Shampoo|Complete|Treatment|400ml'.split('|'),0,{}))
+	var theImages = new Array()
+ 
+//Random-loading images
+theImages[0] = 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/8274cfd6-d2e6-4ffb-ad34-8386322ba1f7.png' // replace with names of images
+theImages[1] = 'https://images.tokopedia.net/img/cache/900/hDjmkQ/2022/7/24/c5fd8f2d-272b-462e-b562-bd5ac851acb2.jpg' // replace with names of images
+theImages[2] = 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/13/96953d93-166f-4c21-8c9f-592757018028.jpg' // replace with names of images
+theImages[3] = 'https://images.tokopedia.net/img/cache/900/VqbcmM/2021/3/10/0aed5e13-435b-4dc5-afdb-777f95880cf2.jpg' // replace with names of images
+theImages[4] = 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/28/7c34b68b-030e-4657-aad8-3eb3e4a05030.jpg' // replace with names of images
+theImages[5] = 'https://images.tokopedia.net/img/cache/900/product-1/2019/1/23/11487771/11487771_d919d70a-11d5-4c66-a6a8-d5f73a016b99_700_700.jpg' // replace with names of images
+theImages[6] = 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/4/8/c68ddd59-361e-49ff-9141-026030af2902.jpg' // replace with names of images
+ 
+var j = 0
+var p = theImages.length;
+var preBuffer = new Array()
+ 
+for (i = 0; i < p; i++){
+preBuffer[i] = new Image()
+preBuffer[i].src = theImages[i]
+}
+var whichImage = Math.round(Math.random()*(p-1));
+ 
+function MKAff(){
+    if(whichImage==0){
+    document.write('<a href ="https://tokopedia.link/twhGnxpOvsb"><img alt="Med+ Masker Duckbill 50 Pcs / 4Ply Disposable Face Mask Kemenkes - Hitam" class="lazyload loaded" data-src="'+theImages[whichImage]+'" border=0 width=300 height=300></a>');
+    }
+    else if(whichImage==1){
+    document.write('<a href ="https://tokopedia.link/197XfiwLvsb"><img alt="Mini Folding HD Binoculars 30 x 60 - Day and Night Vision" class="lazyload loaded" data-src="'+theImages[whichImage]+'" border=0 width=300 height=300></a>');
+    }
+    else if(whichImage==2){
+    document.write('<a href ="https://tokopedia.link/0VsDxORuWrb"><img alt="SIKAI 2in1 Silikon Strap w/ Bumper Case Cover u/ Huawei / Honor Band 6 - BLACK RED" class="lazyload loaded" data-src="'+theImages[whichImage]+'" border=0 width=300 height=300></a>');
+    }
+    else if(whichImage==3){
+    document.write('<a href ="https://tokopedia.link/oqoS3otYUrb"><img alt="ORICO HDD/SSD Casing/Enclosure 2.5 Inch Type A to C - 2521C3" class="lazyload loaded" data-src="'+theImages[whichImage]+'" border=0 width=300 height=300></a>');
+    } 
+    else if(whichImage==4){
+    document.write('<a href ="https://tokopedia.link/uBbfjdEIwsb"><img alt="Samsung Galaxy A52s 5G 8/128GB - Green" class="lazyload loaded" data-src="'+theImages[whichImage]+'" border=0 width=300 height=300></a>');
+    } 
+    else if(whichImage==5){
+    document.write('<a href ="https://tokopedia.link/19FLaNuIwsb"><img alt="TENDA N301 Router Wireless 300Mbps Easy Setup Router" class="lazyload loaded" data-src="'+theImages[whichImage]+'" border=0 width=300 height=300></a>');
+    } 
+    else if(whichImage==6){
+    document.write('<a href ="https://tokopedia.link/UJzCFyoIwsb"><img alt="Chief Shampoo Complete Treatment 400ml" class="lazyload loaded" data-src="'+theImages[whichImage]+'" border=0 width=300 height=300></a>');
+    } 
+}
